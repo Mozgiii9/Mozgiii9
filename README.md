@@ -19,22 +19,6 @@
 
 ---
 
-## 🔭 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Mozgiii9/prompt-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mozgiii9&repo=prompt-library&theme=radical" alt="Prompt Library" />
-  </a>
-  <a href="https://github.com/Mozgiii9/llm-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mozgiii9&repo=llm-automation&theme=radical" alt="LLM Automation" />
-  </a>
-  <a href="https://github.com/Mozgiii9/web3-validator-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mozgiii9&repo=web3-validator-scripts&theme=radical" alt="Web3 Validator Scripts" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Toolkit & Skills
 
 <p align="left">
