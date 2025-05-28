@@ -1,34 +1,73 @@
-![image](https://github.com/user-attachments/assets/9647893f-6ee8-4e38-8905-86fd570fd404)
+<!--
+  Welcome Badge & Banner
+-->
+<p align="center">
+  <a href="https://github.com/Mozgiii9">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF97&center=true&vCenter=true&width=680&lines=Hi+there+%F0%9F%91%8B+I'm+M0zgiii+-+Prompt+Engineer;AI+Enthusiast;Web3+Automator" alt="Typing SVG" />
+  </a>
+</p>
 
-Welcome to my Github profile! I am a developer passionate about creating efficient Bash scripts and interactive Telegram bots using Python. I am also enthusiastic about blockchain technologies and setting up validators. Here you will find my projects and research.
+---
 
-## 🔭 Current Projects
-- 🤖 **Telegram Bots** development using Python
-- 📜 **Bash Scripting** for automate nodes installation
-- 🛠️ Building tools for data analysis
-- 🌐 **Blockchain Technology** projects and validator setups
+## 🧠 About Me
 
-## 🛠️ Technologies and Tools
-- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-- **Tools and Platforms:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- **Messaging Platforms:** ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-- **Blockchain:** ![Solana](https://img.shields.io/badge/-Solana-00FF97?style=flat-square&logo=solana&logoColor=white) ![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum&logoColor=white) ![TON](https://img.shields.io/badge/-TON-blue?style=flat-square&logo=ton&logoColor=white)
+> Former Blockchain & Automation Developer turned **Prompt Engineer**, crafting high-impact prompts for ChatGPT, GPT-4 and beyond.
 
-## 🌱 What I'm Learning
-- Deepening my knowledge of advanced Bash scripting techniques
-- Exploring new Python libraries for bot development and Web3 automatization
-- Enhancing skills in system automation and DevOps
-- Diving into blockchain technologies and validator setups
+- 🔍 **Focus:** Designing, testing and refining prompts to unlock the full potential of Large Language Models.
+- 👨‍💻 **Background:** Python scripting, Bash automation & Web3 validator setup.
+- 🌐 **On a mission:** Streamline AI workflows & integrate LLMs into real-world applications.
 
-## 📫 How to Reach Me
-- Telegram: [@M0zgiii](https://t.me/M0zgiii)
-- Telegram Channel about my moves in crypto and Web3[RU]: [M0zgiii Movement$](https://t.me/CryptedM0zgiii)
-- Twitter: [@m0zgiii](https://x.com/m0zgiii)
+---
 
-## 📈 GitHub Stats
-![Mozgiii9](https://github-readme-stats.vercel.app/api?username=Mozgiii9&show_icons=true&theme=radical)
+## 🔭 Featured Projects
 
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mozgiii9&theme=onedark)
+<p align="center">
+  <a href="https://github.com/Mozgiii9/prompt-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mozgiii9&repo=prompt-library&theme=radical" alt="Prompt Library" />
+  </a>
+  <a href="https://github.com/Mozgiii9/llm-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mozgiii9&repo=llm-automation&theme=radical" alt="LLM Automation" />
+  </a>
+  <a href="https://github.com/Mozgiii9/web3-validator-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mozgiii9&repo=web3-validator-scripts&theme=radical" alt="Web3 Validator Scripts" />
+  </a>
+</p>
 
-Thank you for visiting my profile! 😊
+---
+
+## 🛠️ Toolkit & Skills
+
+<p align="left">
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></a>
+  <a href="https://python.langchain.com/"><img src="https://img.shields.io/badge/-LangChain-3E2EFF?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /></a>
+  <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/-ChatGPT-00FF97?style=flat-square&logo=chatgpt&logoColor=white" alt="ChatGPT" /></a>
+</p>
+
+---
+
+## 🏆 GitHub Visuals & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mozgiii9&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mozgiii9&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://t.me/M0zgiii"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by! 😊
+</p>
