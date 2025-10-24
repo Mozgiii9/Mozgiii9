@@ -11,9 +11,8 @@
 
 ## 🧠 About Me
 
-> Former Blockchain & Automation Developer turned **Prompt Engineer**, crafting high-impact prompts for ChatGPT, GPT-4 and beyond.
+> Former Blockchain & Automation Developer.
 
-- 🔍 **Focus:** Designing, testing and refining prompts to unlock the full potential of Large Language Models.
 - 👨‍💻 **Background:** Python scripting, Bash automation & Web3 validator setup.
 - 🌐 **On a mission:** Streamline AI workflows & integrate LLMs into real-world applications.
 
