@@ -1,7 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF97&height=180&section=header&text=M0zgiii&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=62&descSize=20" width="100%"/>
+</div>
+
 <p align="center">
-  <a href="https://github.com/Mozgiii9">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF97&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+M0zgiii;AI+Automation+Engineer;Building+LLM-powered+workflows;n8n+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Docker" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF97&center=true&vCenter=true&width=700&lines=Building+LLM-powered+workflows;Automating+everything+with+n8n+%26+AI;Python+%E2%80%A2+TypeScript+%E2%80%A2+Docker;Always+exploring+what%27s+next+in+AI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mozgiii9&color=00FF97&style=flat-square&label=profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -49,14 +55,26 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mozgiii9&theme=radical&hide_border=true" alt="Streak" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Mozgiii9&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Stats" />
 </p>
 
 ---
 
+## 🐍 Contribution Graph
+
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Mozgiii9/Mozgiii9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<div align="center">
   <a href="https://t.me/M0zgiii">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF97&height=100&section=footer" width="100%"/>
+</div>
