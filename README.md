@@ -41,16 +41,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [incident-management-api](https://github.com/Mozgiii9/incident-management-api) | Incident tracking API with Telegram integration | Python |
-| [n8n](https://github.com/Mozgiii9/n8n) | Self-hosted n8n automation setup | Docker |
-| [NodeRunnerScripts](https://github.com/Mozgiii9/NodeRunnerScripts) | Useful scripts for Ubuntu server automation | Bash |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
